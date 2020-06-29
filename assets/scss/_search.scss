@@ -1,7 +1,7 @@
 // Search
 
 .td-search-input {
-    background: transparent;
+    background: lightgray;
 
     &.form-control:focus {
         border-color: lighten($primary, 60%);
